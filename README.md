@@ -5,7 +5,7 @@ This Power BI dashboard provides a comprehensive analysis of Adventure Works sal
 
 ## Dashboard Preview
 
-![Adventure Works Dashboard](Screenshot%20(562).png)
+![Adventure Works Dashboard](Adventure-Works-Dashboard.png)
 
 ## Key Metrics
 - Total Sales: $29.36M
